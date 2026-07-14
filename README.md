@@ -58,17 +58,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=AnuragDhosel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AnuragDhosel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
