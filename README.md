@@ -54,11 +54,23 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AnuragDhosel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+# 🦈 GitHub Achievement
 
-https://github.com/users/AnuragDhosel/achievements/pull-shark
+<p align="center">
+  <a href="https://github.com/users/AnuragDhosel/achievements/pull-shark">
+    <img 
+      src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
+      width="120"
+      alt="Pull Shark Achievement"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Pull Shark</b><br>
+  Opened pull requests that have been merged
+</p>
 ---
 
 # 👀 Profile Views
