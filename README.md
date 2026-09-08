@@ -44,7 +44,6 @@
 
 ---
 
-# 📈 Contribution Graph
 
 # 📈 Contribution Graph
 
@@ -58,7 +57,6 @@
 
 
 # 🏆 GitHub Achievements
-
 <p align="center">
   <a href="https://github.com/users/AnuragDhosel/achievements/pull-shark">
     <img 
