@@ -34,16 +34,13 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragDhosel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDhosel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnuragDhosel&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragDhosel&theme=tokyo-night"
+    alt="Anurag's GitHub Activity Graph"
+  />
 </p>
 
 ---
