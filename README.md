@@ -48,8 +48,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragDhosel&theme=tokyo-night"
-    alt="Anurag's GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragDhosel&theme=tokyonight"
+    alt="Anurag's GitHub Contribution Graph"
+    width="100%"
   />
 </p>
 ---
